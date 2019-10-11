@@ -40,7 +40,7 @@ Go to [HA community](https://community.home-assistant.io/t/shellies-discovery-sc
 - Shellies firmware updated to current version
 - Home Assistant updated to current version
 - default topics configuration in Shellies
-
+- check of Mqtt is enable on the steelt device (option under avances settings)
 ## Minimal configuration
 ```yaml
 python_script:
